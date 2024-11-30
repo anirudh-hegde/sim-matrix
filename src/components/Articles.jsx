@@ -12,15 +12,15 @@ const Articles = () => {
                         <p class="body-2 mb-[2rem] text-n-3">SimMatrix unlocks the <span className='text-blue-500 font-semibold'>base</span> potential of <span className='text-green-700 font-semibold'>Mobile Forensics</span> applications</p>
                         <ul class="body-2">
                             <li class="flex items-start py-4 border-t border-n-1">
-                                <img width="24" height="24" src="/src/assets/images/check.svg" />
+                                <img width="24" height="24" src="/src/assets/Images/check.svg" />
                                 <p class="ml-4 text-left">Understanding the first mobile carrier</p>
                             </li>
                             <li class="flex items-start py-4 border-t border-n-6">
-                                <img width="24" height="24" src="/src/assets/images/check.svg" />
+                                <img width="24" height="24" src="/src/assets/Images/check.svg" />
                                 <p class="ml-4">Reliability</p>
                             </li>
                             <li class="flex items-start py-4 border-t border-n-6">
-                                <img width="24" height="24" src="/src/assets/images/check.svg" />
+                                <img width="24" height="24" src="/src/assets/Images/check.svg" />
                                 <p class="ml-4">Supports Global Carriers</p>
                             </li>
                         </ul>
