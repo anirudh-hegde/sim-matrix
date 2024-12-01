@@ -39,7 +39,7 @@ of results for better readability.
    ```bash
    npm run dev
    ```
-Open [https://localhost:5366](https://localhost:5366)
+   Open [https://localhost:5366](https://localhost:5366) in your browser to view the project.
 
 Also you can checkout Docker image on DockerHub: [simmatrix](https://hub.docker.com/repository/docker/anirudh06/simmatrix/general)
 ### Steps to run the Docker image:
