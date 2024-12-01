@@ -1,6 +1,6 @@
 import React from 'react';
 import '@fortawesome/fontawesome-free/css/all.min.css';
-
+import simmatrix from '/assets/sim-matrix.png'
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // import { faHexagonNodesBolt } from '@fortawesome/free-solid-svg-icons';
 
@@ -9,7 +9,7 @@ const Header = () => {
         // <div className="h-[4rem] bg-black w-screen text-white flex items-center " >
         <header class='border-solid border-[0.01em] border-gray-600 flex shadow-md py-4 px-4 sm:px-10 bg-gray-950 font-[sans-serif] min-h-[70px] tracking-wide relative z-50'>
             <div class='flex flex-wrap items-center justify-between gap-5 w-full'>
-                <a href="javascript:void(0)"><img src="./src/assets/sim-matrix.png" alt="logo" class='w-36' />
+                <a href="javascript:void(0)"><img src={simmatrix} alt="logo" class='w-36' />
                 </a>
                 <div id="collapseMenu"
                     class='max-lg:hidden lg:!block max-lg:before:fixed max-lg:before:bg-black max-lg:before:opacity-50 max-lg:before:inset-0 max-lg:before:z-50'>

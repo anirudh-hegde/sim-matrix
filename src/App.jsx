@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Body from './components/Body';
 import Articles from './components/Articles';
 import Footer from './components/Footer';
-import heroBackground from './assets/hero-background.jpg';
+import heroBackground from '/assets/hero-background.jpg';
 function App() {
 
   const styles = {
