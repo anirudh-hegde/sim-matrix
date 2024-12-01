@@ -4,7 +4,7 @@ import React from 'react';
 function Footer() {
     return (
 
-        <footer class="w-full bg-black text-white p-8 mt-16 border-[0.1em] border-gray-600">
+        <footer class="w-full bg-black text-white p-8 mt-16 border-[0.01em] rounded-t-[1em] border-gray-600">
             <p class="inline-block text-sm text-center text-[3vw] md:mb-0 mt-5 pt-1">
                 Copyright © 2024&nbsp;
                 <a href="https://material-tailwind.com/" target="_blank" rel="noreferrer">SimMatrix</a>
