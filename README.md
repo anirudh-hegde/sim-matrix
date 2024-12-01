@@ -49,7 +49,7 @@ Also you can checkout Docker image on DockerHub: [simmatrix](https://hub.docker.
 ```
 2. Run the image:
 ```bash
-  docker run -d -p 8999:5366 simmatrix:v1
+  docker run -d -p 8999:5366 anirudh06/simmatrix:v1
 ```
 
 ## Conclusion
