@@ -4,6 +4,6 @@
 
 @layer base {
   body {
-    @apply bg-[url('/src/assets/hero-background.jpg')] ;
+    @apply bg-[url('./src/assets/hero-background.jpg')] ;
   }
 }
