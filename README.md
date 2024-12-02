@@ -41,7 +41,6 @@ of results for better readability.
    ```
    Open [https://localhost:5366](https://localhost:5366) in your browser to view the project.
 
-Also you can checkout Docker image on DockerHub: [simmatrix](https://hub.docker.com/repository/docker/anirudh06/simmatrix/general)
 ### Steps to run the Docker image:
 1. Pull the image from Dockerhub:
 ```bash
@@ -51,6 +50,7 @@ Also you can checkout Docker image on DockerHub: [simmatrix](https://hub.docker.
 ```bash
   docker run -d -p 8999:5366 anirudh06/simmatrix:v1
 ```
+Checkout Docker image on DockerHub: [simmatrix](https://hub.docker.com/repository/docker/anirudh06/simmatrix/general)
 
 ## Conclusion
 SimMatrix is a straightforward yet powerful tool that simplifies the process of identifying the first mobile carrier assigned to any phone number. Whether for professional or personal use, it delivers reliable and accurate results with minimal effort. With its user-centric design and robust functionality, SimMatrix ensures a hassle-free experience for telecom insights.
