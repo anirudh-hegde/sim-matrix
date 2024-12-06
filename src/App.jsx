@@ -16,9 +16,9 @@ function App() {
   }
   return (
 
-    <main className='h-full w-screen text-white' style={styles}>
+    <main className='w-screen h-full text-white main-anima' style={styles}>
       <Header />
-      <div className='w-full xl:max-w-[1250px] mx-auto px-6'>
+      <div className='mx-auto px-6 w-full xl:max-w-[1250px]'>
         <Body />
         <Articles />
         {/* <footer className='my-8'> */}
